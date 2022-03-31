@@ -12,6 +12,6 @@ jobs:
       run: sh ./demo.sh
     - name: run multiple-line script
       run: | 
-          echo Nothing to show here.. ...............
+          echo Nothing to show here.. .............
           echo what is java ?
           ls -a
