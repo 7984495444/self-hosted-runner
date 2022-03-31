@@ -7,6 +7,5 @@ jobs:
   demo_job:
    runs-on: self-hosted
    steps:
-    #- uses: actions/demo-repo@main
     - name: run a one-line script
       run: sh ./demo.sh
