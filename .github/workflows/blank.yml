@@ -13,5 +13,5 @@ jobs:
     - name: run multiple-line script
       run: | 
           echo Nothing to show here.. 
-          echo what is in that folder?
+          echo what is java ?
           ls -a
